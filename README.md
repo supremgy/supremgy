@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=GilYoung%20Github%20👨🏻‍💻&fontSize=90&fontColor=fff&animation=fadeIn)
 
-# Hello! Nice to meet you! 👋🏻
+# 👋🏻 Hello! Nice to meet you!
 
 I'm GilYoung Lee,
 <br/>
