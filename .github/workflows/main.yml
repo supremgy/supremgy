@@ -23,3 +23,4 @@ jobs:
           SHOW_LOC_CHART: "False" # or "False"
           SHOW_PROJECTS: "False" # or "False"
           SHOW_LANGUAGE_PER_REPO: "False" # or "False"
+          SHOW_TOTAL_CODE_TIME: "False"
