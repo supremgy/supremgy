@@ -18,7 +18,7 @@ jobs:
           LOCALE: "ko"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "False" # or "False"
+          SHOW_DAYS_OF_WEEK: "True" # or "False"
           SHOW_SHORT_INFO: "False" # or "False"
           SHOW_LOC_CHART: "False" # or "False"
           SHOW_PROJECTS: "False" # or "False"
