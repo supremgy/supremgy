@@ -1,5 +1,5 @@
 ## Hi there 👋
-<script src="https://gist.github.com/supremgy/6f6ce96656e50a035012d1bba2fc97cd.js"></script>
+
 ![GilYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremgy&show_icons=true&hide=stars,issues&theme=swift)
 <!--
 **supremgy/supremgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
