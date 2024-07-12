@@ -61,15 +61,15 @@ I'd like to work abroad someday! 😁
 <br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-605.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-552.7%20thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-🌆 Daytime                491 commits         ██████████░░░░░░░░░░░░░░░   40.35 % 
-🌃 Evening                391 commits         ████████░░░░░░░░░░░░░░░░░   32.13 % 
-🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+🌞 Morning                83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌆 Daytime                323 commits         ██████████░░░░░░░░░░░░░░░   38.27 % 
+🌃 Evening                280 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌙 Night                  158 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
 ```
 
 
@@ -93,7 +93,7 @@ Mac                      21 hrs 28 mins      ███████████�
 ```
 
 
- Last Updated on 11/07/2024 15:12:12 UTC
+ Last Updated on 12/07/2024 15:11:01 UTC
 <!--END_SECTION:waka-->
 
 ![GilYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremgy&show_icons=true&hide=stars,issues&theme=swift)
