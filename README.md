@@ -33,6 +33,8 @@ I'd like to work abroad someday! 😁
 &nbsp;
 <img src="https://img.shields.io/badge/Nest.js-282C34?logo=nestjs&logoColor=E0234E" alt="Nestjs logo" title="Nestjs" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/Sanity-282C34?logo=sanity&logoColor=23007ACC" alt="Sanity logo" title="Sanity" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=E0234E" alt="Firebase logo" title="Firebase" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=23007ACC" alt="Vercel logo" title="Vercel" height="25" />
