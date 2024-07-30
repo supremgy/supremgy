@@ -10,7 +10,7 @@ I'd like to work abroad someday! 😁
 
 ## 🛠️ Technologies and Tools
 
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=23007ACC" alt="Typescript logo" title="Typescript" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=23007ACC" alt="Typescript logo" title="Typescript" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=23007ACC" alt="React logo" title="React" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Next-282C34?logo=next.js&logoColor=23007ACC" alt="Next logo" title="Next" height="25" />
@@ -21,32 +21,30 @@ I'd like to work abroad someday! 😁
 &nbsp;
 <img src="https://img.shields.io/badge/Zustand-282C34.svg?logo=" alt="Zustand logo" title="Zustand" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=23007ACC" alt="Javascript logo" title="Javascript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=hTML5&logoColor=23007ACC" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=cSS3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=23007ACC" alt="Node.js logo" title="Node.js" height="25" />
-&nbsp;
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=23007ACC" alt="Node.js logo" title="Node.js" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=23007ACC" alt="Express logo" title="Express" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Nest.js-282C34?logo=nestjs&logoColor=E0234E" alt="Nestjs logo" title="Nestjs" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Sanity-282C34?logo=sanity&logoColor=23007ACC" alt="Sanity logo" title="Sanity" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=E0234E" alt="Firebase logo" title="Firebase" height="25" />
-&nbsp;
+<br>
+
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=E0234E" alt="Firebase logo" title="Firebase" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=23007ACC" alt="Vercel logo" title="Vercel" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=23007ACC" alt="Netlify logo" title="Netlify" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=23007ACC" alt="Git logo" title="Git" height="25" />
-&nbsp;
+<br>
+
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=23007ACC" alt="Git logo" title="Git" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=23007ACC" alt="Github logo" title="Github" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC" alt="Jira logo" title="Jira" height="25" />
-&nbsp;
+<br>
+
+<img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC" alt="Jira logo" title="Jira" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Confluence-282C34?logo=confluence&logoColor=172B4D" alt="Confluence logo" title="Confluence" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=23007ACC" alt="Notion logo" title="Notion" height="25" />
