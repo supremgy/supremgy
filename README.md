@@ -56,7 +56,8 @@ I'd like to work abroad someday! 😁
 
 <img src="https://img.shields.io/badge/Next-282C34?logo=next.js&logoColor=23007ACC" alt="Next logo" title="Next" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React%20Navtive-282C34?logo=react&logoColor=2320232a" alt="React%20Navtive logo" title="React%20Navtive" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=2320232a" alt="vite logo" title="vite" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/three.js-282C34?logo=three.js&logoColor=23007ACC" alt="three.js logo" title="three.js" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/blender-282C34?logo=blender&logoColor=23007ACC" alt="blender logo" title="blender" height="25" />&nbsp;
 <br/>
 <br/>
 
