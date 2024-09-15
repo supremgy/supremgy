@@ -42,6 +42,8 @@ I'd like to work abroad someday! 😁
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=23007ACC" alt="Git logo" title="Git" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=23007ACC" alt="Github logo" title="Github" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&logoColor=23007ACC" alt="Gitlab logo" title="Gitlab" height="25" />
+&nbsp;
 <br>
 
 <img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC" alt="Jira logo" title="Jira" height="25" /> &nbsp;
