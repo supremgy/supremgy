@@ -66,8 +66,37 @@ I'd like to work abroad someday! 😁
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-726.5%20thousand%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 03/11/2024 15:11:50 UTC
+```text
+🌞 Morning                124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+🌆 Daytime                635 commits         █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌃 Evening                635 commits         █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌙 Night                  403 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               28 hrs 31 mins      ████████████████████████░   95.51 % 
+CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Image (svg)              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+SystemVerilog            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Cursor                   29 hrs 52 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      29 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/11/2024 15:13:38 UTC
 <!--END_SECTION:waka-->
 
 ![GilYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremgy&show_icons=true&hide=stars,issues&theme=swift)
