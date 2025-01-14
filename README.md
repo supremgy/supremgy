@@ -82,17 +82,17 @@ I'd like to work abroad someday! 😁
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/01/2025 15:13:51 UTC
+ Last Updated on 14/01/2025 15:12:40 UTC
 <!--END_SECTION:waka-->
 
 ![GilYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremgy&show_icons=true&hide=stars,issues&theme=swift)
