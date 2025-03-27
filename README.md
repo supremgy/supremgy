@@ -66,33 +66,8 @@ I'd like to work abroad someday! 😁
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-726.5%20thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-🌆 Daytime                635 commits         █████████░░░░░░░░░░░░░░░░   35.34 % 
-🌃 Evening                635 commits         █████████░░░░░░░░░░░░░░░░   35.34 % 
-🌙 Night                  403 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 26/03/2025 15:14:27 UTC
+ Last Updated on 27/03/2025 15:14:35 UTC
 <!--END_SECTION:waka-->
 
 ![GilYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremgy&show_icons=true&hide=stars,issues&theme=swift)
