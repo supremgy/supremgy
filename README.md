@@ -64,7 +64,7 @@ I'd like to work abroad someday! 😁
 <br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-840.98%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -92,7 +92,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2025 15:15:21 UTC
+ Last Updated on 01/01/2026 15:16:12 UTC
 <!--END_SECTION:waka-->
 
 ![GilYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremgy&show_icons=true&hide=stars,issues&theme=swift)
